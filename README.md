@@ -1,7 +1,7 @@
 # Undergraduate Course Projects
 <!-- ![](https://img.shields.io/github/repo-size/Sushang-Li/UGCourseProjects.svg?style=flat) -->
 
-This is the collection of all my course homework and projects during the undergraduate.
+This is the collection of all my course projects during the undergraduate.
 * You can find the detailed information of each course project in the corresponding folder.
 * You can check the tasksheet files to get the requirements of the project.
 
