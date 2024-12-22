@@ -2,8 +2,8 @@
 <!-- ![](https://img.shields.io/github/repo-size/Sushang-Li/UGCourseProjects.svg?style=flat) -->
 
 This is the collection of all my course projects during the undergraduate.
-* You can find the detailed information of each course project in the corresponding folder.
-* You can check the tasksheet files to get the requirements of the project.
+* Detailed information and project outcomes for each course project are available in their respective folder.
+* The project requirements can be reviewed in the corresponding task sheet files.
 
 *Note: The Y represents the year of the course, and the S represents the semester of the course.*
 
