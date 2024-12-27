@@ -7,7 +7,7 @@ This is the collection of all my course projects during the undergraduate.
 
 *Note: The Y represents the year of the course, and the S represents the semester of the course.*
 
-| Time | Course              | Technologies Utilized | Delivery Methodology |
+| Time | Course              | Core Technologies Utilized | Delivery Methodology |
 | ---- | --------------------| ----   | ----   |
 | Y2S1       | [Java Programming](https://github.com/Sushang-Li/UGCourseProjects/tree/main/CPT111_Java%20Programming)            | Java                            | Code, Powerpoint                     |
 | Y2S1       | [Introduction to Databases](https://github.com/Sushang-Li/UGCourseProjects/tree/main/CPT103_Introduction%20to%20Databases)   | SQL                             | Code, Report                     |
@@ -17,3 +17,5 @@ This is the collection of all my course projects during the undergraduate.
 | Y3S2       | [Software Engineering Group Project](https://github.com/Sushang-Li/UGCourseProjects/tree/main/CPT202_Software%20Engineering%20Group%20Project) | Spring Boot, MySQL, HTML, CSS, JavaScript |[Project](https://github.com/Sushang-Li/CPT202_Group_6), Reports |
 | Y3S2       | [Human-Centric Computing](https://github.com/Sushang-Li/UGCourseProjects/tree/main/CPT208_Human-Centric%20Computing)     | MoDao                          | Report, Powerpoint, Poster                     |
 | Y3S2       | [Advanced OO Programming](https://github.com/Sushang-Li/UGCourseProjects/tree/main/CPT204_Advanced%20OO%20Programming)     | Java                           | Code, Report, Powerpoint                     |
+| Y4S1       | [Big Data Analytics](https://github.com/Sushang-Li/UGCourseProjects/tree/main/INT303_Big%20Data%20Analytics)     | Python, BeautifulSoup         | Code, Report, Kaggle Competition                     |
+| Y4S1       | [Machine Learning](https://github.com/Sushang-Li/UGCourseProjects/tree/main/INT305_Machine%20Learning)            | Python       | Report                     |
